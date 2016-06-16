@@ -1,0 +1,1 @@
+<center><a href="http://localhost/SRACTyOE/inicio.php">Volver a inicio</a></center>
