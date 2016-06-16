@@ -39,7 +39,7 @@
                     <li id="pestana3"><a href='javascript:cambiarPestanna(pestanas,pestana3);'>Altas</a></li>
                     <li id="pestana4"><a href='javascript:cambiarPestanna(pestanas,pestana4);'>Modificación</a></li>
                     <li id="pestana5"><a href='javascript:cambiarPestanna(pestanas,pestana5);'>Bajas</a></li>
-                    <li id="pestana6"><a href='javascript:cambiarPestanna(pestanas,pestana6);'>Cambiar Contraseña</a></li>
+                    <li id="pestana6"><a href='javascript:cambiarPestanna(pestanas,pestana6);'>hoalaxajx</a></li>
           
                                    
                 </ul>
